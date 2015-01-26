@@ -1,0 +1,6 @@
+[core]
+	editor = vim
+
+[alias]
+	ff = merge --ff-only
+	fixup = commit --amend --no-edit

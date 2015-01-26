@@ -1,0 +1,15 @@
+[submodule "submodules/vim-fugitive"]
+	path = submodules/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "submodules/vim-surround"]
+	path = submodules/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "submodules/vim-pathogen"]
+	path = submodules/vim-pathogen
+	url = https://github.com/tpope/vim-pathogen
+[submodule "submodules/urxvt-perls"]
+	path = submodules/urxvt-perls
+	url = https://github.com/muennich/urxvt-perls.git
+[submodule "submodules/solarized"]
+	path = submodules/solarized
+	url = https://github.com/altercation/solarized
