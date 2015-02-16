@@ -4,3 +4,4 @@
 [alias]
 	ff = merge --ff-only
 	fixup = commit --amend --no-edit
+	g = log --graph --pretty=format:'%C(auto)%h -%d %s (%cr) <%an>%C(reset)'
