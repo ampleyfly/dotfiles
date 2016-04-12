@@ -13,3 +13,9 @@
 [submodule "submodules/solarized"]
 	path = submodules/solarized
 	url = https://github.com/altercation/solarized
+[submodule "submodules/vim-abolish"]
+	path = submodules/vim-abolish
+	url = https://github.com/tpope/vim-abolish.git
+[submodule "submodules/vim-repeat"]
+	path = submodules/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git

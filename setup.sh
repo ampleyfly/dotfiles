@@ -28,6 +28,8 @@ link .vim/bundle submodules/vim-pathogen
 link .vim/bundle submodules/solarized/vim-colors-solarized
 link .vim/bundle submodules/vim-fugitive
 link .vim/bundle submodules/vim-surround
+link .vim/bundle submodules/vim-abolish
+link .vim/bundle submodules/vim-repeat
 link .urxvt/ext submodules/urxvt-perls/url-select
 
 xrdb -merge "$HOME"/.Xresources
